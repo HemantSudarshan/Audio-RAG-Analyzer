@@ -1,9 +1,11 @@
 
 
 
-### README.md
+###  Audio RAG Analyzer
 
-# Audio RAG Analyzer
+
+
+## 📸 Screenshots
 
 ![sc 3 pdf](https://github.com/user-attachments/assets/ac2df09a-a68b-4396-bdd0-abe50df58bdf)
 
@@ -27,9 +29,7 @@ A sophisticated tool for transcribing audio, performing sentiment analysis, and 
 - **📈 Statistics**: Displays segment count, average word count, sentiment scores, and unique speakers.
 - **💾 Chat History**: Save and export conversation history with a sleek chat interface.
 
-## 📸 Screenshots
-![UI Screenshot](path/to/screenshot.png)  
-*Black-themed UI with cyan-blue buttons and animated chat.*
+
 
 ## 🛠️ Installation
 
