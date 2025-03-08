@@ -1,8 +1,13 @@
 
 
----
 
 ### README.md
+
+![Screenshot 2025-03-08 221008](https://github.com/user-attachments/assets/8a338a6d-e65b-43bf-a237-99bd58600d48)
+
+![Json](https://github.com/user-attachments/assets/dc7980d2-c9f6-4a05-83bc-92a527f0edc8)
+
+
 
 ```markdown
 # Audio RAG Analyzer
