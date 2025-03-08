@@ -1,0 +1,11 @@
+qdrant-client
+llama-index
+assemblyai
+streamlit
+python-dotenv
+uuid
+numpy
+torch
+transformers
+sentence-transformers
+protobuf
